@@ -1,0 +1,49 @@
+# Vivado project files
+*.jou
+*.log
+*.str
+*.debug
+vivado_pid*.str
+vivado*.backup.jou
+vivado*.backup.log
+webtalk*.jou
+webtalk*.log
+
+# Vivado generated output
+*.bit
+*.bin
+*.ltx
+*.xsa
+*.hdf
+*.mmi
+*.ll
+
+# Vivado run directories (large, auto-regenerated)
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+*.srcs/utils_1/
+
+# Vivado checkpoint files (large binary)
+*.dcp
+
+# Vitis / SDK
+*.sdk/
+*.xpr.bak
+RemoteSystemsTempFiles/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
