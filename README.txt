@@ -203,3 +203,7 @@ NOTES
   - If UART shows garbled data, verify baud rate is exactly 115200.
 
 ================================================================================
+## Contributors
+
+- [Sai Prakash Reddy Chilpuri](https://github.com/sprch3)
+- [Co-author Name](https://github.com/their-username)
